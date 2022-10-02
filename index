@@ -1,0 +1,435 @@
+<div class=TEAGEN-MAKE-SURE-TO-PRESS-COMMAND-AND-MINUS-TOGETHER>
+<!--
+.;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,;;;;;;;;;:::cccllllolloooooooooooooooooooooooooooooolllooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooloolllc:;,'......',,,. 
+.;:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::cccllloooooooodddddddddddddddddooollcccccccccccccloooooooooodddddddddddddddddddooddddddddddddoollllodddddddddooc:;,,''.....,,,,. 
+.;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::ccclloooooooodddddddddddddddollcc:::;;;;,,,,,,,,;;:ccccc:::ccloodddddddddddoollllloodddddddoc;;,,,,;:lddddddoc;,''.........,,,'. 
+.,::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::ccclllooooooodddddddddddddddoc:;;;;;;;;;,,,,,,,,,,,;;;;;;;,;;;::clloodddddoolooolooolooddddl;,,,;c:,,,;lddddl;,'''''........,,'.. 
+.':::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::cccclloooooddddddddddddddddolc:;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,;;;::cloddddollooddooollodddo:,,,,:dc,,,,;oddo:,,,';c;........''... 
+.'::::::;;;;;;;;;;;;;;;;;;;;;;;;;::::::ccclloooooddddddddddddddddolc:;;,,,,,,,,,,,''''''''''''''''''',,,;;;:clodddolloodddoollodddo:,,,,:dc,,,,:oddoc,,,';c;........''... 
+.;c:::::::::::::::::::::::::::::::::::ccclllooooodddddddddddddddoc:;;,,,,,'''''''............''''''''''',,;;:cooddoolooolooolodddddo:,,,;c:,,,;lddddo:,,'''........',,'.. 
+.:ccc:::::::::::::::::::::::::::::ccccccllloooooddddddddddddddooc:;;,,,,,'''.................''''''.....''',,;:lodddoollllloodddddddoc:;,,,;:coddddddoc:,''........',,;,. 
+.ccccccccc:::::ccccccccccccccccccccccclllloooodddddddddddddddolc:;,,,,,,''''...............................'',;:cloddddddddddddddddddddoollodddddddddddol:;;,''....',,;;. 
+.clllcccccccccccccccccccccccccccclllllllooooodddddddddddddddooc:;,,,,,''''''',,;;;;;::::;;,,''.............''',;:clooddddddddddddddddddddddddddddddddooolcc;,'.....',,;;. 
+.lllllllllllllllllllllllllllllllllllooooooodddddddddddddddddoc:;,,,,,,,,,,;;:cloooooooooollc:;;,,,,'''''''''''',;;:clodddddddddddddddddddddddddddddddooolc:;,'.....',,;;. 
+'looolllllllllllllllllllllllloooooooooooooddddddddddddddddolc;,,,,,,,;;:loddxxkkxxxxxxxxxdddooooolllc::;,,'''''',,;:cloodddddddddddddddddddddddddddddddolc:;,''....',,;;. 
+'looooolllllllllllllooooooooooooooooooddddddddddddddddddolc:;,,,,,;:cloxkkkkkkkkkkkxxxxxxxxxxxxxxxkxxxddoc;,,''''',;;clloodddddddddddddddddddddddddddddolc:;,''....',;;;. 
+'loooooooooooooooooooooooooooooooodddddddddddddddddddolc::;;,,,,;cldxxkkkkkkkkkkkkkkkkkkkkxxxxkkkkkkkOOO0Oxo:;,'''',,;::cclodddddddddddddddddddddddddddolc:;;''....',;;;. 
+'ooooooooooooooooooooooooooooooooddddddddddddddddddolc::;;;,,,;:ldxkkkkkkkkkkkkkkkkkkkkxxxxxxxxkkkkkOOO0KKK0xl;,'''',,,;:cllloddddddddddddddddddddddddoolc:;,''....',;:;. 
+'odoooooooooooooooooooooooooooooodddddddddddddddddolc::;;,,,,;cdxkkkkkkkkkkkkkkkkxxxxxxxxxxxxxxxxkkkkOOO00KK0Od:,,'',,,,;:clcclodddddddddddddddddddddooolc:;,''....',;:;. 
+'odooooooooooooooooooooooooooooooddddddddddddddddolc:;;,,,,,;ldxkkkkkkkkkkkkkkxxxxxxxxxxxxxxxxxxxxxxkkkOOO0000Odc;,,,,,,,;:lolcloddddddddddddddddddddooolc:;,'.....',;:;. 
+'odoooooooooooooooooooooooooddddddddddddddddddddoc:;;,,,,,,:lxkkkkkkkkkkkkxxxxxxxxxxxxxxxxxdddddddxxxxkkOOO0000Odc;,,,,,,,,;cllccloddddddddddddddddddooolc:;,'.....',;:;. 
+'odddooooooooooooooooooooddddddddddddddddddddddl:;;,,,,,,,:lxkkkkkkkkkkkkxxxxxxxxxxxxxxxxxdddddddddddxxkkOOOO00Okdc:;,,,'',,;:c:::loddddddddddddddddddoolc:;,''....',;:;. 
+'oddddoooooooooooooooddddddddddddddddddddddddol:;,,,,,,,,:lxkkkkkkkkkkxxxxxxxxxxxxxxxxxxxxdddolllllllloodxkOOOOOOxoc:;,,,''''',;;,;coooodddddddddddddooolc:;,''....',;:;. 
+'oddooollllllllloooooooooodddddoooooodddddddoc;,,,,,,,,;:lddxxxxxdoooooodoodooddxxxdddddoddollc::;,,,,,;;coxkOOkxdolc:;;,'...',;:;,,clllooooooooodooollllc:;,'.....',;:;. 
+'odl,,c:cc:cccc;'',;:cc:::;,ld:,:ccc,;oxdl;,;:::;,'..'..,:ccccc:'.;:;.':,':c:,;odxo,;ccc;,cooll;'',;::;,..,cc:;:cccc:'.'..';;'...,;;;.':c:'.,:c,,cl,,:c;',,.',;;;,,..':;. 
+'odc.oWWWWWWWWWO''kXNWWNNNx';c.lNWWWx.;dc':kXWWWWNXc. 'dXNWWNNN0,'OWNd...;KWNc.ldx:.dWWWx.;ool,'l0NWWWNXOc...;kXNWWWNKd' .kWWd. ,0WNo.,KWNc cNW0:.'.oWWk. 'dKNWWWNXk'.:;. 
+'oxl',lcxNMWOcl;.dMMXxllll;.;',0MNXWNc.:';XMWkcc:cc'  cNMNkllllc.'0MMWk, ;XMNc.ldx:.xMMMk';ol;.dWMXdccxNMNc ;XMWklcoKMMk..OMMx..OMWx. ;XMWc lWMMXl..dMMO..xWMKoc:cc:..;;. 
+'oddolc.;KMWl.:,.dMMXoccc,.,;.dWWdlXMO,..dMM0'.,:::;. lWMNxccc;. '0MMWWK;:XMWc.oxx:.xMMMk.,lc.'0MMd....kMMx.oMM0,':.lWMX;.OMM0lOWWk...;KMWc lWMWWNd'dMMO.,KMWl .::::'.,;. 
+'oddddd';KMWl.lc.dMMWNNNNk''.;XMX:'OMWo..xMMO.,KWMMN: lWMWNNNN0, '0MWOxNX0NMWc.lxx:.xMMMk.'c:.,0MWo.,'.xMMk.oMMO';o'cNMX:.OMMMWMMNc ..;XMWc lWMXx0W0KMMO.;XMNc dWMMMk.';. 
+'dxddxd';KMWl.lc.dMMKc,,,....kMMWK0NMMK, oWMK;.'dNMN: lWMNo,','. '0MMd.cXMMMWc.lxxc.xMMMk......OMMx...'0MMd.lWMK;.'.oWMK,.OMMO:dNMK,. ;XMWc lWMK,.kWMMMO.,KMWd..:OMMk..;. 
+,dxdxxd';KMWl.lc.oWMN0OOOOl.cNMNOxxkXMWx.,KMWXkkKWMN: :NMWKOkOOd''0MMd..;0MMWc.lxkl.dWWMNOxxxc.cNMN0xx0WMK; '0MWKxdONMWd..OMMx..dWM0, ;XMWc lWMK, .dNMMO..dWMN0kOXMMk..;. 
+,dxdxxd,'x0O;.oo,'lkO0000Ol'l0Ol.',.:O0x' ,xO00kdx0k, .ckO0O00Ox..d0O:.;',x0O;.lxkd;,:okO0000o..;dk000Oko,...'lkO000Ox:'..o00c. .o00o.'x0O; ;O0x'.'.cO0o. .lk00OxdO0l..,. 
+,dxxdddl;;;;;cdxdc;;;;;;;;,,,;,,:odc,;;;,;;,'......',cc;,;;,,''';::;,';do,',,,cdkkkxl::::;,,,'';;,'',,'',:ooc:,,,;;;;;coo:,''...........'........','.....'............''. 
+,dxddddddddddddddddddddooolllllllllllllollll;'...';cdddddddolccldkdlc:clollodxxkkkkkkkkOkxolooooooolllloodxkkkkkkkkkkkxxxxo:;,'...''',,,,,,,,,''''''''''''''''''''''''''. 
+'oddooooooooooooooooolllcc::::::::::::::::::;'...';coddxxxxxdxdddoollllllodxkkkkkkkkkkkOkxoooddddddddooddxxkkkkOOOOkkkkxxxoc;,'....'''''''''''.'.'''''''''''''''''''''''. 
+.lllccccccccccccccccc::;;;,,,,,,,,,,,,,,,;,,,'..',;loddxkkkkkkkxxdoooooddxxkkkkkkkkkxxkkkxdoodddddddddddxxkkkOOOOOOOkkxxxdoc;,'..''''''''''..'''''',,,,,,'''''''''''''''. 
+.:::::;;;;;;;;;;;;;;''.....'.............'',''....';ldxxollllllcccoxdlcccldkkkxxdlc:::::codollc::::clodoccccllllodkOkkdl:::,'....'''...........''.....','.....'''',,,,,'. 
+.,;,,,,,,,'''''''''..;ooo:....looooolool..','...lol',od;,lol'.;oo:':;'col''dkxo;,:loooolc;'',:looool:,;''looooool:;co;;cloolll:...'...cllooolc'. .:oc.....col..,,,,,,,;,. 
+.,,,,'''''''''''''..;XMMMWl  ;KXNWMMWNXK:.',,..lWMWd.::.dWMWl ;XMNc..dWWx';xxo',kWMWXXXXNd.'OWMWXXWMNk' ;XMMNXNWMNx' ,0WMWWWWWK;.''..;XMMNXNWMX: ,KMWO,. :NMN:.,;;;;;;;,. 
+.,,,''''''''''''''..kMNOXM0' .,';OMMO;',..',,..xMMMX:..:XMMMx. lNM0,:XM0,,odd;.dWMKc',,''..xMM0:,,cKMWd :XMWo,,lKMWo :NMNd,,,,'..'''.;XMNo.;OMMk.,KMMMK: :NMN:.;:::::;;,. 
+.,,,'''''''''''''..cNMk,dMWd..'..kMMx..,,,,,,.'OMWWWk..kWWWMO'..dWWKKMK:'ooll'.kMMx..;;'..'OMMd.c:.xMMk.:XMNc.,.xMMk.cNMW0kkkd'.''''.;XMWx:lKMWx.,KMWNNNllXMN:.;:::::;;,. 
+.,,,'''''''''''''.'OMWk;dWMX;.'..kMMx..,,,,,'.;XMXOKNllNKkXMK;','kWMMNc.lxolc'.kMMd.,lllc''OMMd.::.xMMk.:XMNc.'.xMMk.cWMWKkkkd'.,,,'.;XMMWWMMWx' ,KMWdcKNXWMN:.,;;;;;;;,. 
+.,,,'''''''',,,,..oWMMWWWMMMx....kMMx..;;;,,'.lWMO;dMNNWo;0MWc'l,;KMMx.:xxxdd:.dMMKc,;;::'.xMM0:,,cKMWd :XMNo',cKMWo :NMNd,,,,'..,,,.;XMWo;OMWo. ,KMWl ,0WMMN:.',;;;;;;,. 
+.,,,'''',,,,,,,'.;KMNxcccdXMNc...kMMx..;;;;;..dMMx.;XMMK,.kMMd.c;,OMMo.okkkkkd,,OWMWXKKKXd.'OWMNXXWMWk' ;XMWNXXWMNx' ,0MMWWNNNK;.,;,.:XMN: ,0MNl ,KMWo  'xWMN:.',,,;;;;,. 
+.,,,,,,,,,,,;;;'.,ooc.....:oo;...;oo;.':::;;..;oo, .:oo:..;oo;.c:'coo;'okkOOkkd:,cloodool;.',:looool:',.'looooool;',;',cloooooc..,;,..lol' .,ooc..coo,....:ol'.',,,;;;;,. 
+.,,,,,,;;;;;;;;;,'...',,,''''',;,'''',;:::;;,.....',;:::cc::::lddlccccoxkOOOkkkkdl::::::clodoc:;,,;;:llc;,;;,,,,,;cclc:;''......',::,..................''.....'',,,,,,,,. 
+.;;;;;;;;;;:::::::;;;;;;;;::::::::::::;;;;;,,,,,,,,:lodddddddxxxxxxxxxxxkOOOOkkxdooooooooooddollllllllllllllllccccclcccc:;,,'''',:cc;,'''''''''''''''''''''''''',,,,,,,,. 
+.;::;;;;;;;::::::::::::::::::::;;;;;;;;;;;,,,,,'',,;coddddddddddxxddxxxxkkkkkkxoc::;;;;;;;clllllllllllllllllllccccccccc:;;,,''',:lll:,,,,,''',,'''''''''''''''',,,,,,,,,. 
+.;::;;;;;;;;;:::::::::::;;;;;;;;;;;;;;,;;,,,,,'',,,;:loooooooddddddddxxxxkxxxdl;'.........';ccccccllllllllllcccccccccc::;,,,',,;coxo:;,,,,,,,,,,,''''''''''''',,,,,,,,,,. 
+.;:;;;;;,,,;;;;;;;;;;;;;;;;,,,,,,,,,;;;;;;;;;,,,,,,,;looooooooddddddxxxxxxxdoc,...       ...,;::ccclllllllcccccccc::::::;;,,,,;coxxo:;;;;;;;;;;,,,,,,''',,,,,,,,,,,,,,,,. 
+.;:;,,,,,,,,,,;;;;;;;;,,,,,,,,,,;;;;;;;;;;;;;;;;,,',;clooooooooooddxxxxxddolc,..           ..',;:cccclllllccccc::::::::::::;;;:ldxdl:;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,. 
+.;:;;,,,,,,,,,,,,,,,,,,,,,,,,,;;;:::ccccccccccc::;,,,:looooooooooddxxxddolc:,....         ..'',;;:cccllllccc:::::::::::::::::;;:clc:::::;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,. 
+.cc:::::::::::::;;;;;;;;;;;;;:::cclloooooooooooolc:::cooooooooooodddxdollcc::;;,'...   ...,;:::;;::ccllllccc::::::::::::::cc:,,;::::::::;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,;,. 
+'oolllllllllllcccccccccccccccllloodddxxxxxxxxxxxxdollllooooollooodddxdolllllooolc:;;;;;;:::::::::::ccllllccc::::::::::::::cc:,,;::::::::::;;::::::::::::;;;;,,,,,,,,,;;,. 
+,dxdddddddodddoooooooooooooooddddxxxkkkkkxkkkkkkxdolclllllllllooodddxddoooolllllllllllllcc:;,;;;::cccllllcccc::::::::::::::c:;:::ccccccc:::::ccccccc::::::;;;,,,,,,,;;;,. 
+,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkxxxxxkkkxxxkxdolllllllllllooodddddddoollc:::::::::::;,,,,;;::ccccccccccccc::::::::::::c::cclllllllllllllllllcccc:::::;;;,,,,,,,;;;;. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkxkkkxxxxkkkkkxolllllllllooooooddooollc:::;;,,,,,,'''',;;::cccccccccccccc::::;;;::::c::clloooooooooooolllllccc::::;;;,,,,,,,,;;;;. 
+,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkxkxkxdollllllllllllooooooollc::;;,,''....''',;;::cccccccccccccc::::;;;;::ccccllooooooooooooooolllcc:::;;;;,,,,,,,,,;;;;. 
+,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkxkxxxxkxxollllllllllllloooooollc::;;,,''...'',;;;::::::cccccccccccc::::;;;::ccccllooooooooooooooollcc::;;;;,,,,,,,,,,,,,,,. 
+,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkxxxdollllllllllllooooolllcc::;;,,,,,,,;;::::::::ccccccccccccccc::::::cllccllloooooooooooooollcc:;;;;,,,,,,,,,,,,,,,,. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdollllllllllloooooooolllccc::;;;;:::::cccccccccccccccccccllc:::::cclllllllllllllllllllllllc::;;;,,,,,,,,,,,,,,,,,. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddollllooooollloooddddoooolllccccccccccllllllllccc:::ccccccccccccccclllccccccccccccccclllllc::;;;,,,,,,,,,,,,,,,,,. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddoollloooooolllooddxxddooooooooooooooollooooollc::::::ccccccccccccccccccc::::::::::::ccccccc:::;;;;,,,,,,,,,;;;;;,. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddooolllloooooollllooddxdddddddddddddddoooooooollc::::::::cccccccc:cc:::llc:::::::::::::::cccccc::;;;;;;,,,,,,;;;;;:;. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddoolllllooooolllllooddxddddddddddddddooooooollcc::::::::::::::c:c::::cx00dcc::::::::::::::ccccc:::;;;;;;;;,,,;;;;::;. 
+,xkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddol:;cloooooollllooooddddddddddddooolllllllcc:::;;;:::::::::c:::cldOKXNXkoc::::::::::::::::::::::::;;;;;;;;;;;;;;;;. 
+,xkxxxddddddddxxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkkkkkkkkxxoc,,:looooooooooollllooodddoooooollllllllc::;;;;;;::::::::ccoxk0KXXXXNXOol::::::::::::::::::::::::;;;;;;;,;:::::;;,.
+,ddooooooooooooooooooddddddddddddddddxxxxxxxxxxxxxxxxdo:'';clllllllllllcccccclllllllcccc:::::cc:;;;;;;;;;;:::::cldOKKK00000KKklc:;;;;;;;,,,,,;;,,,,,,,,,,,,'''',cdoool:col
+-->
+</div>
+<!DOCTYPE html>
+<html> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+ height: 100%;
+ margin: 0;
+ font: 400 15px/1.8 "Lato", sans-serif;
+ color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+ position: relative;
+ opacity: 0.65;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+.bgimg-1 {
+ background-image: url("https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/Louis-Armstrong-744x579.jpg");
+ min-height: 100%;
+}
+
+.bgimg-2 {
+ background-image: url("https://teds-list.com/wp-content/uploads/2020/11/free-trumpet-420.jpg");
+ min-height: 500px;
+}
+
+.bgimg-3 {
+ background-image: url("https://www.sweetwater.com/insync/media/2022/02/Parts-of-a-Trumpet-Diagram-100-scaled.jpg");
+ min-height: 1000px;
+}
+
+.bgimg-4 {
+ background-image: url("https://images.squarespace-cdn.com/content/v1/585eae64cd0f68c6c06ab86e/ec0840f0-42e1-4369-8a9d-0abf8563565f/1850AnonWeller.jpg");
+ min-height: 1000px;
+}
+
+.caption {
+ position: absolute;
+ left: 0;
+ top: 50%;
+ width: 100%;
+ text-align: center;
+ color: #000;
+font-size: 50px;
+ letter-spacing: 10px;
+ color: white;
+font-family: 'Courier New', monospace;
+}
+
+.header1 {
+ position: absolute;
+ left: 0;
+ top: 8%;
+ width: 100%;
+ text-align: center;
+ color: #000;
+font-size: 50px;
+ letter-spacing: 10px;
+ color: white;
+font-family: 'Courier New', monospace;
+}
+
+.scrolldown{
+position: absolute;
+ left: 0%;
+ top: -120%;
+ width: 100%;
+ text-align: center;
+ color: #000;
+font-size: 50px;
+ letter-spacing: 10px;
+ color: white;
+font-family: 'Courier New', monospace;
+}
+.info {
+  position: absolute;
+ left: 0;
+ top: -68%;
+ width: 100%;
+ text-align: center;
+ color: #000;
+font-size: 20px;
+ letter-spacing: 0px;
+ color: white;
+font-family: 'Courier New', monospace;
+
+}
+button {
+ margin: 0;
+ font-size: 50px;
+position: absolute;
+top: 50%;
+left: 50%;
+font-family: 'Courier New', monospace;
+color: black;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -800px);
+}
+#id {
+}
+button:hover {
+cursor: pointer;
+background: #053056;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #474e5d;
+  font-family: Helvetica, sans-serif;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  
+  /* Full-width containers */
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+  left: 15px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+ .bgimg-1, .bgimg-2, .bgimg-3 {
+   background-attachment: scroll;
+ }
+}
+</style>
+</head>
+<body style="">
+
+
+<div class="bgimg-1">
+ <div class="caption">
+ <span class="border">A LOUD HISTORY</span>
+ </div>
+</div>
+<div class="bgimg-1">
+ <div class="button">
+<button onclick="myFunction()">Begin The Adventure</button>
+</div>
+</div>
+<script>
+function myFunction() {
+  const element = document.getElementById("id");
+  element.scrollIntoView();
+}
+const audio = new Audio("https://cdn.discordapp.com/attachments/1021314138649153617/1026185255239037008/Chet_Baker_Quartet_-_Happy_Little_Sunbeam.mp3");
+const buttons = document.querySelectorAll("button");
+
+buttons.forEach(button => {
+  button.addEventListener("click", () => {
+    audio.play();
+  });
+});
+</script>
+<div id="id">
+<div class="bgimg-2">
+ <div class="header1">
+ <span class="border" style="background-color:transparent;font-size:60px;color: #f7f7f7;">The Orgins</span>
+ </div>
+</div>
+</div>
+<div class="bgimg-2">
+ <div class="info">
+ <p style="color:rgb(255, 255, 255);">The trumpet has existed since antiquity when humans first discovered the resonant sounds produced by blowing into hollow objects such as animal horns and conch shells, and by around 1500 BC, craftsmen began creating their own trumpets from wood, metal, and ceramic. These ancient trumpets have been found all over the world in places like China, South America, Scandinavia, Asia, and Egypt. In its earliest forms, the trumpet was not considered a musical instrument but a signaling device for civic, religious, or military purposes. Because its high, clear tones could be heard for miles, ancient trumpeters used short melodies or “calls” to communicate messages over long distances. The biblical book of Numbers describes these uses for the trumpet in detail, saying that trumpets were used to summon the people and break camp (Num. 10:2), sound the alarm during times of war (Num. 10:9), and participate in religious ceremonies (Num. 10:10). The trumpet continued to serve as a signaling device in for thousands of years, but the late Middle Ages saw a change in the trumpet’s design that transformed it into a musical instrument. </p>
+ </div>
+</div>
+
+<div class="bgimg-2">
+ <div class="caption" style="background-color:transparent;font-size:25px;color: #f7f7f7;"> 
+ </div>
+</div>
+
+
+
+
+<div class="bgimg-3">
+ <div class="header1">
+ <span class="border" style="background-color:transparent;font-size:50px;color: #000000;">How the Trumpet Works</span>
+ </div>
+</div>
+
+<div class="bgimg-3">
+    <div class="info">
+    <span class="border" style="background-color:transparent;font-size:25px;color: #000000;">The trumpet is constructed of brass tubing bent twice into a rounded oblong shape. As with all brass instruments, sound is produced by blowing air through closed lips, producing a "buzzing" sound into the mouthpiece and starting a standing wave vibration in the air column inside the trumpet.</span>
+    </div>
+   </div>
+   
+
+<div class="bgimg-4">
+ <div class="caption" style="font-size: 100px; font-weight: bolder;">
+ <span class="border">A TIMELINE</span>
+ </div>
+</div>
+<div class="bgimg-4">
+    <div class="container left">
+      <div class="content">
+        <h2>1500 BCE</h2>
+        <p>The ancestor of the trumpet was the horn. Usually made of animal horn but sometimes made of metal. Many ancient civilizations used them in India, Greece, China, Egypt, and others.</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+        <h2>1400</h2>
+        <p>The first direct ancestor of the trumpet was the natural trumpet. This was a trumpet without any holes, slides, or valves and was mostly used in Europe. It can only play notes on the harmonic series.</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="content">
+        <h2>1815</h2>
+        <p>The first trumpet with valves (allowing for chromatic and diatonic notes) is created by Heinrich Stölzel in 1815.</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+        <h2>1832</h2>
+        <p>Just before piston valves were used in trumpets, rotary valves were invented by Joseph Riedlin in 1832. They are still used today and are only popular in Europe.</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="content">
+        <h2>1838</h2>
+        <p>Not long after Heinrich Stölzel invented his valved trumpet, François Périnet invented the piston valve (AKA the Périnet valve) in 1838. These are the valves that are still used in trumpets today and are ubiquitous around the world.</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+        <h2>1950</h2>
+        <p>Invented in the mid 1900's, this trumpet is a variation on the natural trumpet. It added holes, allowing the trumpeter to fine tune the notes. This can be done on a natural trumpet by "lipping" the note up or down, but modern trumpet players are not accustomed to this and thus more often use a baroque trumpet.</p>
+      </div>
+    </div>
+  </div>
+  
+  <script>/* consoleimg v1.0 - chris johnson / @defaced */const consoleimg={load:function(e,{size:o=320,color:n="transparent"}={}){const t=new FileReader;t.addEventListener("load",function(){const e="background: url('"+t.result+"') left top no-repeat; font-size: "+o+"px; background-size: contain; background-color:"+n;console.log("%c     ",e)},!1),fetch(e).then(e=>e.blob()).then(e=>{if(0===e.type.indexOf("image")){if(e.size>8192&&navigator.userAgent.indexOf("Firefox")>0)throw new Error("Image size too big to be displayed in Firefox.");return e}throw new Error("Valid image not found.")}).then(e=>t.readAsDataURL(e)).catch(e=>console.warn(e.message))}};</script>
+  <script>
+      consoleimg.load('https://m.media-amazon.com/images/M/MV5BOTNmZGU0MDYtNDE4Zi00NTE4LTg0ZGEtYzBjOWNjOTkwMzdlXkEyXkFqcGdeQXVyMTg3Nzg5ODY@._V1_.jpg', {size: 320, color: '#FFFFFF'})
+  </script>
+<head>
+  <title>A Loud History</title>
+  <link rel="icon" type="image/png" src="https://iili.io/Lv0Zej.png">
+</head>
+<body>
+  </body>
+</html>
