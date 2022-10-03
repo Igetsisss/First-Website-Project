@@ -424,7 +424,7 @@ buttons.forEach(button => {
   
   <script>/* consoleimg v1.0 - chris johnson / @defaced */const consoleimg={load:function(e,{size:o=320,color:n="transparent"}={}){const t=new FileReader;t.addEventListener("load",function(){const e="background: url('"+t.result+"') left top no-repeat; font-size: "+o+"px; background-size: contain; background-color:"+n;console.log("%c     ",e)},!1),fetch(e).then(e=>e.blob()).then(e=>{if(0===e.type.indexOf("image")){if(e.size>8192&&navigator.userAgent.indexOf("Firefox")>0)throw new Error("Image size too big to be displayed in Firefox.");return e}throw new Error("Valid image not found.")}).then(e=>t.readAsDataURL(e)).catch(e=>console.warn(e.message))}};</script>
   <script>
-      consoleimg.load('https://m.media-amazon.com/images/M/MV5BOTNmZGU0MDYtNDE4Zi00NTE4LTg0ZGEtYzBjOWNjOTkwMzdlXkEyXkFqcGdeQXVyMTg3Nzg5ODY@._V1_.jpg', {size: 320, color: '#FFFFFF'})
+      consoleimg.load('https://iili.io/LviIku.png', {size: 320, color: '#FFFFFF'})
   </script>
 <head>
   <title>A Loud History</title>
