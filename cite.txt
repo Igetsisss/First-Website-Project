@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>
+https://www.text-image.com/convert/ascii.html
+https://github.com/workeffortwaste/consoleimg/
+https://www.w3schools.com/howto/howto_css_timeline.asp
+https://www.timetoast.com/timelines/timeline-of-the-trumpet
+https://www.lutherhigh.org/documents/arts/les_band/instrument_info/trumpet_info.pdf
+https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/Louis-Armstrong-744x579.jpg
+https://teds-list.com/wp-content/uploads/2020/11/free-trumpet-420.jpg
+https://www.sweetwater.com/insync/media/2022/02/Parts-of-a-Trumpet-Diagram-100-scaled.jpg
+https://images.squarespace-cdn.com/content/v1/585eae64cd0f68c6c06ab86e/ec0840f0-42e1-4369-8a9d-0abf8563565f/1850AnonWeller.jpg
+https://www.w3schools.com/howto/howto_css_parallax.asp
+https://www.youtube.com/watch?v=4Xa0X0Y27Og
+https://stackoverflow.com/questions/18826147/javascript-audio-play-on-click?scrlybrkr=555473c9
+</h1>
+</body>
+</html>
